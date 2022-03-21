@@ -1,0 +1,19 @@
+.wrapper {
+  width: 50vw;
+  height: 55vh;
+  border-radius: 1em;
+  background-color: #ebf2ea;
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+.body {
+  display: flex;
+  justify-content: center;
+}
+.mine {
+  text-align: center;
+}
+.button {
+  margin-bottom: 1em;
+}
